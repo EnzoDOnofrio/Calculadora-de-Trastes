@@ -1,0 +1,20 @@
+name: valderrama-trastes
+services:
+  backend:
+    build: ./backend
+    environment:
+      HOST: 0.0.0.0
+      PORT: 3000
+    healthcheck:
+      test: ["CMD", "clojure", "-M", "-e", "(slurp \"http://127.0.0.1:3000/api/health\")"]
+      interval: 30s
+      timeout: 15s
+      start_period: 30s
+      retries: 3
+  frontend:
+    build: ./frontend
+    ports:
+      - "127.0.0.1:8080:80"
+    depends_on:
+      backend:
+        condition: service_healthy

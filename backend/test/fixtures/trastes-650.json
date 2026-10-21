@@ -1,0 +1,150 @@
+{
+  "escala_mm": 650.0,
+  "quantidade_trastes": 24,
+  "trastes": [
+    {
+      "numero": 1,
+      "espacamento_mm": 36.481696756899225,
+      "distancia_ponte_mm": 613.5183032431007,
+      "distancia_pestana_mm": 36.481696756899225
+    },
+    {
+      "numero": 2,
+      "espacamento_mm": 34.43413645188023,
+      "distancia_ponte_mm": 579.0841667912206,
+      "distancia_pestana_mm": 70.91583320877945
+    },
+    {
+      "numero": 3,
+      "espacamento_mm": 32.50149687630609,
+      "distancia_ponte_mm": 546.5826699149145,
+      "distancia_pestana_mm": 103.41733008508555
+    },
+    {
+      "numero": 4,
+      "espacamento_mm": 30.677328025249622,
+      "distancia_ponte_mm": 515.9053418896648,
+      "distancia_pestana_mm": 134.09465811033516
+    },
+    {
+      "numero": 5,
+      "espacamento_mm": 28.95554190474334,
+      "distancia_ponte_mm": 486.94979998492147,
+      "distancia_pestana_mm": 163.0502000150785
+    },
+    {
+      "numero": 6,
+      "espacamento_mm": 27.330392213665597,
+      "distancia_ponte_mm": 459.6194077712559,
+      "distancia_pestana_mm": 190.38059222874412
+    },
+    {
+      "numero": 7,
+      "espacamento_mm": 25.796455165994722,
+      "distancia_ponte_mm": 433.82295260526115,
+      "distancia_pestana_mm": 216.17704739473882
+    },
+    {
+      "numero": 8,
+      "espacamento_mm": 24.34861138942739,
+      "distancia_ponte_mm": 409.47434121583376,
+      "distancia_pestana_mm": 240.5256587841662
+    },
+    {
+      "numero": 9,
+      "espacamento_mm": 22.982028839949432,
+      "distancia_ponte_mm": 386.49231237588435,
+      "distancia_pestana_mm": 263.50768762411565
+    },
+    {
+      "numero": 10,
+      "espacamento_mm": 21.692146675338126,
+      "distancia_ponte_mm": 364.80016570054624,
+      "distancia_pestana_mm": 285.19983429945376
+    },
+    {
+      "numero": 11,
+      "espacamento_mm": 20.47466003377526,
+      "distancia_ponte_mm": 344.32550566677094,
+      "distancia_pestana_mm": 305.67449433322906
+    },
+    {
+      "numero": 12,
+      "espacamento_mm": 19.32550566677096,
+      "distancia_ponte_mm": 325.0,
+      "distancia_pestana_mm": 325.0
+    },
+    {
+      "numero": 13,
+      "espacamento_mm": 18.240848378449613,
+      "distancia_ponte_mm": 306.75915162155036,
+      "distancia_pestana_mm": 343.24084837844964
+    },
+    {
+      "numero": 14,
+      "espacamento_mm": 17.217068225940114,
+      "distancia_ponte_mm": 289.5420833956103,
+      "distancia_pestana_mm": 360.4579166043897
+    },
+    {
+      "numero": 15,
+      "espacamento_mm": 16.250748438153046,
+      "distancia_ponte_mm": 273.29133495745725,
+      "distancia_pestana_mm": 376.70866504254275
+    },
+    {
+      "numero": 16,
+      "espacamento_mm": 15.338664012624811,
+      "distancia_ponte_mm": 257.9526709448324,
+      "distancia_pestana_mm": 392.0473290551676
+    },
+    {
+      "numero": 17,
+      "espacamento_mm": 14.47777095237167,
+      "distancia_ponte_mm": 243.47489999246073,
+      "distancia_pestana_mm": 406.52510000753927
+    },
+    {
+      "numero": 18,
+      "espacamento_mm": 13.665196106832799,
+      "distancia_ponte_mm": 229.80970388562795,
+      "distancia_pestana_mm": 420.1902961143721
+    },
+    {
+      "numero": 19,
+      "espacamento_mm": 12.898227582997361,
+      "distancia_ponte_mm": 216.91147630263058,
+      "distancia_pestana_mm": 433.0885236973694
+    },
+    {
+      "numero": 20,
+      "espacamento_mm": 12.174305694713695,
+      "distancia_ponte_mm": 204.73717060791688,
+      "distancia_pestana_mm": 445.2628293920831
+    },
+    {
+      "numero": 21,
+      "espacamento_mm": 11.491014419974716,
+      "distancia_ponte_mm": 193.24615618794218,
+      "distancia_pestana_mm": 456.7538438120578
+    },
+    {
+      "numero": 22,
+      "espacamento_mm": 10.846073337669063,
+      "distancia_ponte_mm": 182.40008285027312,
+      "distancia_pestana_mm": 467.5999171497269
+    },
+    {
+      "numero": 23,
+      "espacamento_mm": 10.23733001688763,
+      "distancia_ponte_mm": 172.16275283338547,
+      "distancia_pestana_mm": 477.83724716661453
+    },
+    {
+      "numero": 24,
+      "espacamento_mm": 9.66275283338548,
+      "distancia_ponte_mm": 162.5,
+      "distancia_pestana_mm": 487.5
+    }
+  ]
+}
