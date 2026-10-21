@@ -8,5 +8,4 @@ target/
 .env
 *.log
 test-results/
-requisitos/
 

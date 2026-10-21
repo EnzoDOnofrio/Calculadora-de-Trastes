@@ -8,7 +8,7 @@ Projeto de extensão da disciplina **Programação Funcional com Linguagem Cloju
 
 | Item | Informação |
 | --- | --- |
-| Componentes do grupo e RAs | **A preencher pelo grupo antes da entrega** |
+| Componentes do grupo e RAs | Enzo Oliveira D'Onofrio - RA: 23.01561-6, Leonardo Souza Olivieri - RA: 23.01512-8 |
 | Empresa parceira | Valderrama Luthier |
 | Instituição | Instituto Mauá de Tecnologia |
 | Disciplina | Programação Funcional com Linguagem Clojure |
