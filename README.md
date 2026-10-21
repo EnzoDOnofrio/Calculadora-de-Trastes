@@ -8,8 +8,7 @@ Projeto de extensão da disciplina **Programação Funcional com Linguagem Cloju
 
 | Item | Informação |
 | --- | --- |
-| Componentes do grupo e RAs | Enzo Oliveira D'Onofrio - RA: 23.01561-6,  
-Leonardo Souza Olivieri - RA: 23.01512-8 |
+| Componentes do grupo e RAs | Enzo Oliveira D'Onofrio - RA: 23.01561-6<br>Leonardo Souza Olivieri - RA: 23.01512-8 |
 | Empresa parceira | Valderrama Luthier |
 | Instituição | Instituto Mauá de Tecnologia |
 | Disciplina | Programação Funcional com Linguagem Clojure |
@@ -341,9 +340,9 @@ Isso regenera `backend/test/fixtures/trastes-650.json`, sem alterar o XLSX. O fi
 
 ## Referências
 
-- [Especificação do projeto](MAUA-Clojure%20-%20Especificacao-Projeto.pdf), Prof. Aparecido V. de Freitas, Instituto Mauá de Tecnologia.
-- [Roteiro de README fornecido](Readme-Calculador-de-Trastes.pdf).
-- [Planilha de referência](planilha_trastes_formula_pura.xlsx), aba “Medidas dos trastes”.
+- [Especificação do projeto](requisitos/MAUA-Clojure%20-%20Especificacao-Projeto.pdf), Prof. Aparecido V. de Freitas, Instituto Mauá de Tecnologia.
+- [Roteiro de README fornecido](requisitos/Readme-Calculador-de-Trastes.pdf).
+- [Planilha de referência](requisitos/planilha_trastes_formula_pura.xlsx), aba “Medidas dos trastes”.
 - [Clojure CLI e deps.edn](https://clojure.org/guides/deps_and_cli).
 - [Ring](https://github.com/ring-clojure/ring), [Compojure](https://github.com/weavejester/compojure) e [Ring JSON](https://github.com/ring-clojure/ring-json).
 - [React](https://react.dev/), [Vite](https://vite.dev/) e [Vitest](https://vitest.dev/).
