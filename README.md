@@ -16,6 +16,8 @@ Projeto de extensão da disciplina **Programação Funcional com Linguagem Cloju
 
 O link do vídeo de apresentação do projeto está em [docs/link_video.txt](docs/link_video.txt).
 
+O [resumo em PDF para entrega](docs/entrega-calculador-de-trastes.pdf) reúne os dados da equipe, os principais pontos do projeto e os links do repositório e do vídeo.
+
 ## Funcionalidades
 
 - Entrada da escala em mm, aceitando vírgula ou ponto decimal na interface.
