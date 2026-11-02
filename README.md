@@ -14,7 +14,7 @@ Projeto de extensão da disciplina **Programação Funcional com Linguagem Cloju
 | Disciplina | Programação Funcional com Linguagem Clojure |
 | Prazo indicado na especificação | 04/11/2026, com opção de entrega em 28/10/2026 |
 
-O roteiro da demonstração está em [docs/roteiro-video.md](docs/roteiro-video.md). A gravação e os dados de autoria devem ser finalizados pelo grupo.
+O link do vídeo de apresentação do projeto está em [docs/link_video.txt](docs/link_video.txt).
 
 ## Funcionalidades
 
@@ -100,7 +100,7 @@ Subtrair `70,92 − 36,48` produziria `34,44`, diferente do espaçamento correto
 
 As dependências diretas estão fixadas; o frontend inclui `package-lock.json` para instalação com `npm ci`. A tipografia sem serifa tenta carregar Google Fonts e possui fallback local para Arial. Os títulos usam Georgia, com fallback serifado. A calculadora funciona sem o serviço de fontes.
 
-Os PDFs e o XLSX originais permanecem na raiz. Código do frontend em `frontend/`, backend em `backend/`, utilitários em `scripts/` e roteiro em `docs/`.
+Os PDFs e o XLSX originais permanecem na raiz. Código do frontend em `frontend/`, backend em `backend/`, utilitários em `scripts/` e link do vídeo de apresentação em `docs/`.
 
 ## Instalação e execução local
 
